@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FFFFFF</color>
+    <color name="text_primary">#262626</color>
+    <color name="text_secondary">#8E8E8E</color>
+    <color name="ig_gradient_start">#833AB4</color>
+    <color name="ig_gradient_mid">#FD1D1D</color>
+    <color name="ig_gradient_end">#FCAF45</color>
+</resources>
